@@ -4,7 +4,7 @@ library(textdata)
 library(tm)
 
 # Get stop words from the text mining package
-stop_words <- stopwords(lang)
+stop_words <- stopwords("english")
 
 the_hill_we_climb <- read_delim("poems/the_hill_we_climb.txt", "\n", col_names = FALSE)
 colnames(the_hill_we_climb) <- c("lines")
