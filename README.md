@@ -1,18 +1,18 @@
 # Amanda Gorman Super Bowl Props
 
-|   Word Said First During Amanda Gorman Poem  | Moneline |    Probability |
+|   Word Said First During Amanda Gorman Poem  | Moneyline |    Probability |
 |----------------------------------------------|----------|----------------|
 |   Hero                                       |   -110   |   52.4%        |
 |   Pandemic                                   |   110    |   47.6%        |
 |   Super                                      |   225    |   30.8%        |
 
-|   Who Will Amanda Gorman Mention First During Poem | Moneline |    Probability |
+|   Who Will Amanda Gorman Mention First During Poem | Moneyline |    Probability |
 |----------------------------------------------------|----------|----------------|
 | James Martin                                       | 110      | 47.6%          |
 | Suzie Dorner                                       | 130      | 43.5%          |
 | Trimaine Davis                                     | 150      | 40.0%          |
 
-|   Word Said First During Amanda Gorman Poem  | Moneline |    Probability |
+|   Word Said First During Amanda Gorman Poem  | Moneyline |    Probability |
 |----------------------------------------------|----------|----------------|
 | Chiefs                                       | -125     | 55.6           |
 | Bucs/Buccaneers                              | -105     | 51.2           |
