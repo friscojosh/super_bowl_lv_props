@@ -21,7 +21,7 @@ Source: [betonline.ag](https://www.betonline.ag/sportsbook/futures-and-props/sup
 
 Thesis is that none of the three words are good choices and likely picked clean out of the air.
 There are literally more betting options for the color of the liquid that will be poured on the 
-winning head coach than there is for a poet laureate reading an original poem. Lots of newness here.
+winning head coach than there are for a poet laureate reading an original poem. Lots of newness here.
 First poem read at a Super Bowl, Gorman is young and has given just two public readings of poems.
 There aren't any public anthologies of her work available for analysis (a book is upcoming).
 
