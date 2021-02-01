@@ -40,13 +40,13 @@ similar, well-established pattern for good storytelling. That being the case, fa
 the positive words may be the sharp play. So I make the case for Pandemic -- "pan" means
 all and the theme of the peom given by the NFL is "It Takes All of Us".
 
-A way to get an edge of sportsbook is to try and find correlated wagers. If we believe
+A way to get an edge on sportsbooks is to try and find correlated wagers. If we believe
 that Pandemic will be the first word spoken, it follows that it may help us predict which of
 the three "heroes" will be highlighted first. Suzie Dorner is a COVID ICU nurse and is a logical
 choice for this. There are large uncertainties at play -- pandemic could be uttered first (among
 the available choices) and Dorner highlighted second in the dark night of the soul portion of the poem, 
 for instance.
 
-Finally, there is a bet on which team name Gorman will utter first. Chefs seems an
+Finally, there is a bet on which team name Gorman will utter first. **Chiefs** seems an
 odd favorite to be said by a woman who is in the business of choosing her words carefully and
 who is deeply concerned with the issues of race and marginalization, particularly in this moment.
