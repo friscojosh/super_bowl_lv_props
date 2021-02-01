@@ -47,6 +47,6 @@ choice for this. There are large uncertainties at play -- pandemic could be utte
 the available choices) and Dorner highlighted second in the dark night of the soul portion of the poem, 
 for instance.
 
-Finally, there is a bet on which team name Gorman will utter first. Cheifs seems an
-odd favorite to be said by a woman who is in th ebusiness of choosing her words carefully and
-who is concerned with the issues of race and marginalization, particularly in this moment.
+Finally, there is a bet on which team name Gorman will utter first. Chefs seems an
+odd favorite to be said by a woman who is in the business of choosing her words carefully and
+who is deeply concerned with the issues of race and marginalization, particularly in this moment.
