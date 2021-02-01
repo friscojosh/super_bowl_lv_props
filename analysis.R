@@ -2,8 +2,6 @@ library(tidyverse)
 library(tidytext)
 library(textdata)
 library(tm)
-library(SnowballC)
-library(wordcloud)
 
 # Get stop words from the text mining package
 stop_words <- stopwords(lang)
@@ -71,3 +69,15 @@ poem_place_word_tokens %>%
   arrange(-freq) %>%
   head()
 
+# add both
+both <- the_hill_we_climb_sentiment %>%
+  bind_rows(poem_place_sentiment) %>%
+  arrange(linenumber)
+
+# plot both
+both %>%
+  ggplot(aes(x = linenumber, y = sentiment_value)) +
+  geom_smooth(se = TRUE, size = 4) +
+  scale_y_continuous(limits = c(0, 1)) +
+  theme_minimal() +
+  labs(x = "Line number", y = "Sentiment")
