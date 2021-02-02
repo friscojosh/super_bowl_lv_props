@@ -2,6 +2,7 @@ library(tidyverse)
 library(tidytext)
 library(textdata)
 library(tm)
+library(theme538)
 
 # Get stop words from the text mining package
 stop_words <- stopwords("english")
@@ -76,8 +77,11 @@ both <- the_hill_we_climb_sentiment %>%
 
 # plot both
 both %>%
+  filter(word != "like") %>%
   ggplot(aes(x = linenumber, y = sentiment_value)) +
-  geom_smooth(se = TRUE, size = 4) +
+  geom_smooth(se = FALSE, size = 4) +
   scale_y_continuous(limits = c(0, 1)) +
   theme_minimal() +
-  labs(x = "Line number", y = "Sentiment")
+  labs(x = "Line number", y = "Sentiment", title = "Gorman's three act structure") +
+  theme_538
+
